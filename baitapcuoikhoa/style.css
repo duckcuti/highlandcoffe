@@ -1,0 +1,304 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.nav3 {
+    display: flex;
+    margin-left: 0.1%;
+    list-style-type: none;
+    background-color: #b22830;
+    color: white;
+}
+
+.ul2 {
+    margin-left: 6%;
+    margin-top:  7%;
+    text-align: center;
+}
+
+.ul3 {
+    margin-left: 6%;
+    margin-top:  7%;
+    text-align: center;
+    padding: 10px;
+  
+}
+
+.ul4 {
+    margin-left: 6%;
+    margin-top:  7%;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+.ul5 {
+    margin-left: 6%;
+    margin-top:  7%;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+
+.ul6 {
+    margin-left: 6%;
+    margin-top:  7%;
+    text-align: center;
+    padding: 10px;
+ 
+}
+
+
+.ul7 {
+    margin-left: 6%;
+    margin-top:  7%;
+    text-align: center;
+    padding: 10px;
+
+}
+.ul1 {
+    margin-top:  7%;
+    text-align: center;
+    padding: 10px;
+}
+
+.ul1:hover {
+    color: white;
+    background-color: #53382c;
+}
+
+.nav2 {
+    background-color: #b22830;
+
+}
+
+.ul2:hover {
+    color: white;
+    background-color: #53382c;
+}
+
+.ul3:hover {
+    color: white;
+    background-color: #53382c;
+}
+
+.ul4:hover {
+    color: white;
+    background-color: #53382c;
+}
+
+.ul5:hover {
+    color: white;
+    background-color: #53382c;
+}
+
+.ul7:hover {
+    color: white;
+    background-color: #53382c;
+}
+
+.ul6:hover {
+    color: white;
+    background-color: #53382c;
+}
+
+
+
+.li7 {
+    background-color: #53382c;
+}
+
+
+
+
+
+.img1 {
+width: 50%;
+   
+    position: relative;
+    padding-right:0%;
+    
+}
+
+.nav5 {
+display: flex;
+list-style-type: none;
+}
+
+
+.imgcon {
+   position: absolute;
+   top: 150%;
+   color: white;
+
+   left: 5%;
+}
+.ul8 {
+    display: flex;
+    margin-left: 0px;
+}
+
+
+.input {
+    margin-left: 700%;
+    padding-right: 37%;
+    margin-top: 19%;
+    padding-top: 3px;
+}
+.nav7 {
+ position: absolute;
+    color: white;
+    background-color: wheat;
+    position: absolute;
+    top: 146%;
+   color: white;
+padding-right: 37%;
+padding-bottom : 25% ;
+   left: 50%;
+   padding-left: 4%;
+   padding-top: 1%; 
+}
+
+.nav10 {
+    position: absolute;
+    top: 155%;
+   color: white;
+
+
+
+   left: 28%;
+}
+.img3 {
+    position: absolute;
+right: 35%;
+    top: 155%;
+}
+
+
+a {
+    text-decoration: none;
+    color : white
+}
+.tin1 {
+    position: absolute;
+    left : 66%;
+    top: 157%;
+color: white;
+font-size: 120%;
+}
+.img2 {
+    margin-top: 30px;
+}
+.img {
+    width: 20%;
+}
+.tin1:hover {
+    color: #b22830;
+   
+}
+.tin2:hover {
+    color: #b22830;
+   
+}
+.tin3:hover {
+    color: #b22830;
+   
+}
+.tin2 {
+    position: absolute;
+    left : 66%;
+    top: 173%;
+color: white;
+font-size: 120%;
+}
+.img4 {
+    position: absolute;
+right: 35%;
+    top: 170%;
+    width: 10%;
+}
+.img5 {
+    position: absolute;
+right: 35%;
+    top: 185%;
+ width: 10%;
+}
+.tin3 {
+    position: absolute;
+    left : 66%;
+    top: 186%;
+color: white;
+font-size: 120%;
+}
+.img9 {
+    width: 100%;
+}
+.ul9 {
+    display: flex;
+    color: white;
+    background-color: #53382c;
+    list-style-type: none;
+}
+.footer {
+    margin-left: 10%;
+    margin-right: 3%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.footer1 {
+    margin-left: 10%;
+    margin-right: 3%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.footer2 {
+    margin-left: 10%;
+    margin-right: 3%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.footer:hover {
+    color: #f1bc7a;
+}
+.footer1:hover {
+    color: #f1bc7a;
+}
+.footer2:hover {
+    color: #f1bc7a;
+}
+.menu {
+    position: relative;
+    padding-right: 2%;
+    padding-left: 2%;
+    
+}
+.sub_menu {
+    position: absolute;
+    left: 0;
+    right: 1%;
+    display: none;
+    top:40px;
+    background-color: #fff;
+    padding-right: 2%;
+    padding-left: 2%;
+    
+}
+.menu:hover ul {
+display: block;
+}
+.sub_menu li{
+    list-style-type: none;
+    color: black;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+.ul9 {
+    display: flex;
+    color: white;
+    background-color: #53382c;
+    list-style-type: none;
+}
